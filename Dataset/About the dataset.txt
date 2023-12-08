@@ -1,0 +1,24 @@
+About the dataset
+
+General description: 
+Diabetes is a complex metabolic disorder that poses significant health risks if not managed effectively. Its prevalence worldwide has led to a growing need for accurate and early diagnostic methods
+
+Donor: 
+Vikas Ukani
+
+Source: 
+The dataset was originally sourced from the National Institute of Diabetes and Digestive and Kidney Diseases (https://www.kaggle.com/datasets/vikasukani/diabetes-data-set/data) 
+
+
+Attributes:
+
+    Pregnancies
+    Plasma glucose concentration
+    Blood pressure (mm Hg)
+    Triceps skin fold thickness (mm)
+    Serum insulin (mu U/ml)
+    Body mass index (weight in kg/(height in m)^2)
+    Diabetes pedigree function
+    Age (years)
+    Outcome variable (0 or 1)
+
