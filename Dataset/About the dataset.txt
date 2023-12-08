@@ -4,10 +4,10 @@ General description:
 Diabetes is a complex metabolic disorder that poses significant health risks if not managed effectively. Its prevalence worldwide has led to a growing need for accurate and early diagnostic methods
 
 Donor: 
-Vincent Sigillito (vgs@aplcen.apl.jhu.edu) 
+Vikas Ukani
 
 Source: 
-The dataset was sourced from the National Institute of Diabetes and Digestive and Kidney Diseases (https://datahub.io/machine-learning/diabetes) 
+The dataset was originally sourced from the National Institute of Diabetes and Digestive and Kidney Diseases (https://www.kaggle.com/datasets/vikasukani/diabetes-data-set/data) 
 
 
 Attributes:
